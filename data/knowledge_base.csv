@@ -1,0 +1,18 @@
+category,question,answer,topic
+orders,Where is my order?,"You can check your order status using the tracking link in your order confirmation email. If the tracking link is missing or has not updated for several days, contact our support team with your order number.",Order tracking
+orders,How do I track an order?,"Open your order confirmation email and select the tracking link. If you cannot find the email, check your spam folder or contact support with the email address used for purchase.",Order tracking
+orders,Can I change my delivery address?,Address changes may only be possible before an order ships. Contact support as soon as possible and provide your order number. Never share passwords or full payment details.,Address changes
+shipping,How long does delivery take?,Delivery time depends on your location and the shipping option selected. Check the estimated date in your order confirmation or tracking page.,Delivery estimates
+shipping,My package is late,"First check the tracking page for the latest scan. If the estimated delivery date has passed, contact support with your order number and tracking details.",Late delivery
+returns,What is your return policy?,Return eligibility and deadlines depend on the store's policy and the product. Check the return policy on the store website or contact support with your order details.,Returns
+returns,How do I return an item?,Open the store's returns page and follow its instructions. You may need your order number and reason for return. Keep the item and packaging until the return is approved.,Return steps
+returns,When will I receive my refund?,"Refund processing time depends on the store and payment provider. Check your return confirmation for an estimate; if the stated period has passed, contact support.",Refund status
+payments,Which payment methods are accepted?,"Available payment methods are shown at checkout. If a payment method is not listed there, it may not be supported for your order or region.",Payment methods
+payments,My payment failed,Confirm that your payment details are correct and that your bank has not blocked the transaction. Avoid submitting repeated payments if you see a pending charge; check with your bank or support first.,Payment issue
+account,I forgot my password,Use the 'Forgot password' option on the sign-in page to request a reset link. Never share your password or reset code with anyone.,Password reset
+account,How do I contact customer support?,"Use the Contact Support option in this demo to record an escalation request. For a real business, replace it with the official support email, phone number, or ticket system.",Contact support
+products,Can I change or cancel my order?,Cancellation may only be possible before an order is processed or shipped. Contact support quickly with your order number to check available options.,Cancel order
+products,The item arrived damaged,"Take photos of the damaged item and packaging, keep your order details, and contact support to ask about replacement or return options.",Damaged item
+general,Thank you,You're welcome! Is there anything else I can help you with?,General
+general,Hello,"Hello! I'm the customer support assistant. You can ask me about orders, shipping, returns, refunds, payments, or account access.",Greeting
+general,Hi,Hi there! How can I help with your customer support question today?,Greeting
