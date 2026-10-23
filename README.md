@@ -2,11 +2,17 @@
 
 A beginner-friendly Artificial Intelligence project that answers common customer support questions using a searchable knowledge base and TF-IDF text similarity. It includes a Streamlit dashboard and an option to record a demo escalation request.
 
+
+
 ## 🚀 Live Demo
 
-After deploying to Streamlit Community Cloud, replace the placeholder below with your app URL:
+Try the AI Customer Support Chatbot online:
 
+👉 **[Open Customer Support Chatbot](https://ai-customer-support-chatbot-z2aqbxa3g36q54n8xmkyb6.streamlit.app/)**
 
+The application answers common customer support questions using a searchable knowledge base and TF-IDF text similarity. It also provides conversation history, support knowledge-base filtering, and a demo support escalation form.
+
+**Note:** This is an educational prototype. The support escalation form records requests only within the current app session; it does not create a real support ticket.
 
 ## Features
 
