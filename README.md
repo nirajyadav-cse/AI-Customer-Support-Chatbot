@@ -6,7 +6,7 @@ A beginner-friendly Artificial Intelligence project that answers common customer
 
 After deploying to Streamlit Community Cloud, replace the placeholder below with your app URL:
 
-**[Open Customer Support Chatbot](PASTE_YOUR_STREAMLIT_URL_HERE)**
+
 
 ## Features
 
